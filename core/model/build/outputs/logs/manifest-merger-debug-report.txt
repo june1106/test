@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml:2:13-83
+INJECTED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml:2:13-83
+	package
+		INJECTED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml
+	xmlns:android
+		ADDED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml:2:23-81
+uses-sdk
+INJECTED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml reason: use-sdk injection requested
+INJECTED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml
+INJECTED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml
+	android:targetSdkVersion
+		INJECTED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml
+	android:minSdkVersion
+		INJECTED from C:\MDP\MDP_autonomous_robot-main\MDP Android (test)\core\model\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11031174724511617062.xml
